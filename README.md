@@ -79,9 +79,6 @@
         <li><strong>Open a Pull Request</strong></li>
     </ol>
 
-   <h2 id="license">📄 License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="https://opensource.org/licenses/MIT">MIT License</a> for details.</p>
-
    <h2 id="contact">📬 Contact</h2>
     <p>Feel free to reach out via <a href="mailto:basil.razakhan@example.com">Email</a> or through my <a href="https://www.linkedin.com/in/basil-raza-khan">LinkedIn</a>.</p>
 </body>
