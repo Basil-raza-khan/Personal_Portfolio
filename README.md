@@ -50,10 +50,9 @@
             <pre><code>cd Personal_Portfolio</code></pre>
         </li>
         <li><strong>Install dependencies:</strong>
-            <pre><code>npm install</code></pre>
         </li>
-        <li><strong>Start the development server:</strong>
-            <pre><code>npm run dev</code></pre>
+        <li><strong>Start the server for email:</strong>
+            <pre><code>node server.js</code></pre>
         </li>
     </ol>
 
